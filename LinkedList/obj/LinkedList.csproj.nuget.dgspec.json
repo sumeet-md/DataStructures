@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\sumeetd\\Source\\Repos\\sumeet-md\\DataStructures\\LinkedList\\LinkedList.csproj": {}
+  },
+  "projects": {
+    "C:\\sumeetd\\Source\\Repos\\sumeet-md\\DataStructures\\Helper\\Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sumeetd\\Source\\Repos\\sumeet-md\\DataStructures\\Helper\\Helper.csproj",
+        "projectName": "Helper",
+        "projectPath": "C:\\sumeetd\\Source\\Repos\\sumeet-md\\DataStructures\\Helper\\Helper.csproj",
+        "packagesPath": "C:\\Users\\sumeetd\\.nuget\\packages\\",
+        "outputPath": "C:\\sumeetd\\Source\\Repos\\sumeet-md\\DataStructures\\Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sumeetd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\sumeetd\\Source\\Repos\\sumeet-md\\DataStructures\\LinkedList\\LinkedList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sumeetd\\Source\\Repos\\sumeet-md\\DataStructures\\LinkedList\\LinkedList.csproj",
+        "projectName": "LinkedList",
+        "projectPath": "C:\\sumeetd\\Source\\Repos\\sumeet-md\\DataStructures\\LinkedList\\LinkedList.csproj",
+        "packagesPath": "C:\\Users\\sumeetd\\.nuget\\packages\\",
+        "outputPath": "C:\\sumeetd\\Source\\Repos\\sumeet-md\\DataStructures\\LinkedList\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sumeetd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\sumeetd\\Source\\Repos\\sumeet-md\\DataStructures\\Helper\\Helper.csproj": {
+                "projectPath": "C:\\sumeetd\\Source\\Repos\\sumeet-md\\DataStructures\\Helper\\Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
